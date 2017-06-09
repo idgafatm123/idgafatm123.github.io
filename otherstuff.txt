@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title> hi there sup </title>
+</head>
+
+<body>
+<h1> other stuff </h1>
+<br>
+<br>
+<br>
+
+<p> Language learning progress: pretty good </p>
+<br>
+<br>
+<br>
+<p> game making: haven't started yet </p>
+<br>
+<br>
+<br>
+<s> socially: improving </s>
+<br>
+<br>
+<br>
+<p> What to do in Life: figuring out </p>
+<br>
+<br>
+<br>
+<a href="file:///C:/Users/Martin/Desktop/Website%20shit/mainpage.html">Back to home</a>
+
+</body>
+
+</html>
